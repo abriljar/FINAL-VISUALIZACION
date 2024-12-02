@@ -173,7 +173,7 @@
 
 		if (songId) {
 			const discoGrandeImg = document.getElementById("disco-grande");
-			discoGrandeImg.src = `public/images/Abril/Disco grande ${songId.toLowerCase().replace(/\s+/g, "-")}.png`;
+			discoGrandeImg.src = `/images/Abril/Disco grande ${songId.toLowerCase().replace(/\s+/g, "-")}.png`;
 
 			const songEnergy = songData[songId]?.Energy || "Media";
 			const rotationSpeed = energyRotationSpeeds[songEnergy];
