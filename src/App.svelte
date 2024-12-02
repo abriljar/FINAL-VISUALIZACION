@@ -208,7 +208,7 @@
 
 	<button
 		on:click={() => {
-			window.location.href = "https://url-de-martin.com";
+			window.location.href = "https://final-visualizacion-martin.vercel.app/";
 		}}
 	>
 		Martín
