@@ -224,12 +224,12 @@
 					onclick="handleDiscoClick(event)"
 				>
 					<img
-						src="public/images/Abril/bachata cerrado.png"
+						src="/images/Abril/bachata cerrado.png"
 						alt="Disco cerrado"
 						class="disco"
 					/>
 					<img
-						src="public/images/Abril/bachata abierto.png"
+						src="/images/Abril/bachata abierto.png"
 						alt="Disco abierto"
 						class="disco-hover"
 					/>
@@ -240,12 +240,12 @@
 					onclick="handleDiscoClick(event)"
 				>
 					<img
-						src="public/images/Abril/milagrosa cerrado.png"
+						src="/images/Abril/milagrosa cerrado.png"
 						alt="Disco cerrado"
 						class="disco"
 					/>
 					<img
-						src="public/images/Abril/milagrosa abierto.png"
+						src="/images/Abril/milagrosa abierto.png"
 						alt="Disco abierto"
 						class="disco-hover"
 					/>
@@ -256,12 +256,12 @@
 					onclick="handleDiscoClick(event)"
 				>
 					<img
-						src="public/images/Abril/extasis cerrado.png"
+						src="/images/Abril/extasis cerrado.png"
 						alt="Disco cerrado"
 						class="disco"
 					/>
 					<img
-						src="public/images/Abril/extasis abierto.png"
+						src="/images/Abril/extasis abierto.png"
 						alt="Disco abierto"
 						class="disco-hover"
 					/>
@@ -272,12 +272,12 @@
 					onclick="handleDiscoClick(event)"
 				>
 					<img
-						src="public/images/Abril/rara vez cerrado.png"
+						src="/images/Abril/rara vez cerrado.png"
 						alt="Disco cerrado"
 						class="disco"
 					/>
 					<img
-						src="public/images/Abril/rara vez abierto.png"
+						src="/images/Abril/rara vez abierto.png"
 						alt="Disco abierto"
 						class="disco-hover"
 					/>
@@ -288,33 +288,33 @@
 					onclick="handleDiscoClick(event)"
 				>
 					<img
-						src="public/images/Abril/baila bach cerrado.png"
+						src="/images/Abril/baila bach cerrado.png"
 						alt="Disco cerrado"
 						class="disco"
 					/>
 					<img
-						src="public/images/Abril/baila bach abierto.png"
+						src="/images/Abril/baila bach abierto.png"
 						alt="Disco abierto"
 						class="disco-hover"
 					/>
 				</div>
 			</div>
-			<img class="gif" src="public/images/Comp 1_1.gif" alt="" />
+			<img class="gif" src="/images/Comp 1_1.gif" alt="" />
 		</div>
 
 		<div class="containerVinilo">
-			<img class="pua" src="public/images/Group.png" alt="" />
+			<img class="pua" src="/images/Group.png" alt="" />
 			<div class="discoGrande">
 				<img
 					id="disco-grande"
-					src="public/images/Abril/Disco grande la-bachata.png"
+					src="/images/Abril/Disco grande la-bachata.png"
 					alt="Disco grande vinilo"
 				/>
 			</div>
 
 			<div class="discoynombre">
 				<img
-					src="public/images/music.png"
+					src="/images/music.png"
 					alt="Imagen 2"
 					class="image2"
 				/>
