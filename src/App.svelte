@@ -26,7 +26,7 @@
 
 	onMount(async () => {
 		// Cargar datos desde el archivo CSV
-		originalData = await d3.csv("src/data/Spotify.csv");
+		originalData = await d3.csv("/data/Spotify.csv");
 		filteredData = originalData;
 		console.log(filteredData);
 		const groupedData = Array.from(
